@@ -1,0 +1,26 @@
+name,under_category,web_address,statement,document,status,address_line1,address_line2,city,state_province,postal_code,country_code
+Organization 26,2,http://www.organization26.com,This is the statement for organization 26,1,FALSE,123 Main St Apt 26,Suite 26,City 26,1,92385,GB
+Organization 27,1,http://www.organization27.com,This is the statement for organization 27,1,TRUE,123 Main St Apt 27,,City 27,1,12114,AU
+Organization 28,5,http://www.organization28.com,This is the statement for organization 28,1,FALSE,123 Main St Apt 28,Suite 28,City 28,1,30261,US
+Organization 29,1,http://www.organization29.com,This is the statement for organization 29,1,FALSE,123 Main St Apt 29,,City 29,1,26479,US
+Organization 30,9,http://www.organization30.com,This is the statement for organization 30,1,FALSE,123 Main St Apt 30,Suite 30,City 30,1,18867,AU
+Organization 31,10,http://www.organization31.com,This is the statement for organization 31,1,TRUE,123 Main St Apt 31,,City 31,1,11217,AU
+Organization 32,2,http://www.organization32.com,This is the statement for organization 32,1,FALSE,123 Main St Apt 32,Suite 32,City 32,1,37045,IN
+Organization 33,6,http://www.organization33.com,This is the statement for organization 33,1,FALSE,123 Main St Apt 33,,City 33,1,95834,GB
+Organization 34,5,http://www.organization34.com,This is the statement for organization 34,1,TRUE,123 Main St Apt 34,Suite 34,City 34,1,49029,GB
+Organization 35,5,http://www.organization35.com,This is the statement for organization 35,1,FALSE,123 Main St Apt 35,,City 35,1,25300,AU
+Organization 36,3,http://www.organization36.com,This is the statement for organization 36,1,TRUE,123 Main St Apt 36,Suite 36,City 36,1,84671,US
+Organization 37,9,http://www.organization37.com,This is the statement for organization 37,1,TRUE,123 Main St Apt 37,,City 37,1,20153,AU
+Organization 38,6,http://www.organization38.com,This is the statement for organization 38,1,TRUE,123 Main St Apt 38,Suite 38,City 38,1,98583,GB
+Organization 39,3,http://www.organization39.com,This is the statement for organization 39,1,TRUE,123 Main St Apt 39,,City 39,1,97377,GB
+Organization 40,1,http://www.organization40.com,This is the statement for organization 40,1,FALSE,123 Main St Apt 40,Suite 40,City 40,1,83510,CA
+Organization 41,2,http://www.organization41.com,This is the statement for organization 41,1,TRUE,123 Main St Apt 41,,City 41,1,94026,US
+Organization 42,8,http://www.organization42.com,This is the statement for organization 42,1,FALSE,123 Main St Apt 42,Suite 42,City 42,1,47226,IN
+Organization 43,10,http://www.organization43.com,This is the statement for organization 43,1,TRUE,123 Main St Apt 43,,City 43,1,54010,CA
+Organization 44,4,http://www.organization44.com,This is the statement for organization 44,1,FALSE,123 Main St Apt 44,Suite 44,City 44,1,24436,AU
+Organization 45,2,http://www.organization45.com,This is the statement for organization 45,1,TRUE,123 Main St Apt 45,,City 45,1,34210,CA
+Organization 46,6,http://www.organization46.com,This is the statement for organization 46,1,FALSE,123 Main St Apt 46,Suite 46,City 46,1,11650,IN
+Organization 47,4,http://www.organization47.com,This is the statement for organization 47,1,TRUE,123 Main St Apt 47,,City 47,1,76379,IN
+Organization 48,8,http://www.organization48.com,This is the statement for organization 48,1,FALSE,123 Main St Apt 48,Suite 48,City 48,1,99899,CA
+Organization 49,10,http://www.organization49.com,This is the statement for organization 49,1,TRUE,123 Main St Apt 49,,City 49,1,77215,IN
+Organization 50,7,http://www.organization50.com,This is the statement for organization 50,1,TRUE,123 Main St Apt 50,Suite 50,City 50,1,24456,IN
